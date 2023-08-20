@@ -13,20 +13,25 @@ Welcome to **AreaCalculator**, a simple web application that allows you to calcu
 
 The project is organized into the following structure:
 
+```
 AreaCalculator/
+│
 ├── static/
-│ └── css/
-│ │ └── style.css
-│ └── images/
-│ │ └── favicon.png
+│   ├── css/
+│   │   └── style.css
+│   ├── images/
+│   │   └── favicon.png
+│
 ├── templates/
-│ ├── layout/
-│ │ └── base.html
-│ ├── index.html
-│ ├── circle.html
-│ ├── triangle.html
-│ └── rectangle.html
+│   ├── layout/
+│   │   └── base.html
+│   ├── index.html
+│   ├── circle.html
+│   ├── triangle.html
+│   └── rectangle.html
+│
 └── app.py
+```
 
 ## Getting Started
 
